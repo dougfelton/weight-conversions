@@ -2,5 +2,6 @@
 
 namespace Dougfelton\WeightConversions;
 
-class WeightConversionsClass{
+class WeightConversionsClass
+{
 }
